@@ -8,5 +8,5 @@ The code will be added as soon as I get it cleared and better visualization.
 
 ## Bibtex
 
-## Acknolegement
+## Acknowledgements
 The work is partially supported by National Natural Science Foundation of China (Grant Nos. 61573290, 61503237).
