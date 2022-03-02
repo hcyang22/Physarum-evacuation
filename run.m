@@ -35,6 +35,9 @@ A(n) = n - 1;
 [Q,P] = amoeba(L, C, A, a, OL);
 
 %% plot script
+%  Note: this script use licensed matlab toolbox: davinci. If you encounter
+%  license problem, please install that toolbox and get a license. You may
+%  also use other methods to visualize the result. 
 [x,y] = find(triu(Q));
 links = [x,y];
 expan0 = 2000;
